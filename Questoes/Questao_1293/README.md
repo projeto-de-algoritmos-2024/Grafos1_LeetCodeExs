@@ -20,12 +20,14 @@ Return the minimum number of steps to walk from the upper left corner (0, 0) to 
 Entradas e saídas obtidas:
 
 Codigo de teste:
+<br>
 ![Exemplo2](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/CodigoTeste.png "Exemplo2")
 
 Saída obtida:
+<br>
 ![Exemplo2](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/OutputTeste.png "Exemplo2")
 
 Foi utilizado na BFS para resolver o problema, o desafio desta resolução consiste em compreender como se deve realizar a exclusão de um bloco de parede no caminho.
 Para um comprrendimento do problema foi utilizado o texto [Eliminando blocos no caminho](https://medium.com/algorithms-digest/shortest-path-in-a-grid-with-obstacles-elimination-ad0c07ed41c2).
-
+<br>
 ![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/Aceita.png "Exercicio Submetido")
