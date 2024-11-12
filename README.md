@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Grafos 1 Leet Code Exercícios
 
 **Número da Lista**: Sem Número<br>
 **Conteúdo da Disciplina**: Grafos 1
@@ -13,6 +13,7 @@ Neste projeto de Grafos 1, tem se como objetivo aplicar os conhecimento a respei
 
 ## Questões
 | Questão | Dificuldade |
+| -- | -- |
 | [1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/) | Difícil |
 | [1263](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/description/) | Difícil |
 | [513](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | Média |
@@ -24,7 +25,7 @@ Neste projeto de Grafos 1, tem se como objetivo aplicar os conhecimento a respei
 
 ## Screenshots
 ### Submit da Questão 1293
-![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/Aceito.png "Exercicio Submetido")
+![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/Aceita.png "Exercicio Submetido")
 <br>
 
 ### Submit da Questão 1263
