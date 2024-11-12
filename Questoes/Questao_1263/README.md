@@ -16,7 +16,7 @@ Your task is to move the box 'B' to the target position 'T' under the following 
 
 Return the minimum number of pushes to move the box to the target. If there is no way to reach the target, return -1.
 
-![ExemploVisal](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/Ex1.png "ExemploVisual")
+![ExemploVisal](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/Ex1.png "ExemploVisual")
 
 ### Exemplo 1
 >**Input:** grid = Input: grid =  
@@ -63,4 +63,4 @@ Saída obtida:
 Foi utilizado na BFS para resolver o problema, o desafio desta resolução é muito semelhante ao problema também resolvido neste módulo de questões do Leet Code.
 Porém neste, ligeiramente diferente, podemos encontrar um algoritmo que determina se o player consegue alcançar a caixa para então movê-la
 <br>
-![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/Aceita.png "Exercicio Submetido")
+![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/Aceito.png "Exercicio Submetido")
