@@ -1,4 +1,4 @@
-## 1293. Shortest Path in a Grid with Obstacles Elimination
+## 1263. Minimum Moves to Move a Box to Their Target Location
 
 ### Enunciado:
 A storekeeper is a game in which the player pushes boxes around in a warehouse trying to get them to target locations.
@@ -60,7 +60,7 @@ Saída obtida:
 <br>
 ![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/OutputTeste.png "SaidasObtidas")
 
-Foi utilizado na BFS para resolver o problema, o desafio desta resolução é muito semelhante ao problema também resolvido neste módulo de questões do Leet Code.
+Foi utilizado uma BFS para resolver o problema, o desafio desta resolução é muito semelhante ao problema também resolvido neste módulo de questões do Leet Code.
 Porém neste, ligeiramente diferente, podemos encontrar um algoritmo que determina se o player consegue alcançar a caixa para então movê-la
 <br>
 ![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/Aceito.png "Exercicio Submetido")

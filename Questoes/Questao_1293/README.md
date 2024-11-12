@@ -27,7 +27,7 @@ Saída obtida:
 <br>
 ![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/OutputTeste.png "SaidasObtidas")
 
-Foi utilizado na BFS para resolver o problema, o desafio desta resolução consiste em compreender como se deve realizar a exclusão de um bloco de parede no caminho.
+Foi utilizado uma BFS para resolver o problema, o desafio desta resolução consiste em compreender como se deve realizar a exclusão de um bloco de parede no caminho.
 Para um comprrendimento do problema foi utilizado o texto [Eliminando blocos no caminho](https://medium.com/algorithms-digest/shortest-path-in-a-grid-with-obstacles-elimination-ad0c07ed41c2).
 <br>
 ![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/Aceita.png "Exercicio Submetido")
