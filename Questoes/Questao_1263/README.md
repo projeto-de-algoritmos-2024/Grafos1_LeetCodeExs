@@ -54,13 +54,16 @@ Entradas e saídas obtidas:
 
 Codigo de teste:
 <br>
+
 ![TestesRodados](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/CodigoTeste.png "TestesRodados")
 
 Saída obtida:
 <br>
+
 ![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/OutputTeste.png "SaidasObtidas")
 
 Foi utilizado uma BFS para resolver o problema, o desafio desta resolução é muito semelhante ao problema também resolvido neste módulo de questões do Leet Code.
-Porém neste, ligeiramente diferente, podemos encontrar um algoritmo que determina se o player consegue alcançar a caixa para então movê-la
+Porém neste, ligeiramente diferente, podemos encontrar um algoritmo que determina se o player consegue alcançar a caixa para então movê-la.
 <br>
+
 ![Submissao](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1263/Aceito.png "Exercicio Submetido")

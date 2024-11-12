@@ -58,7 +58,6 @@ Escolha uma questão que deseja rodar ou testar no [LeetCode](https://leetcode.c
 O código questão [513](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_513/Q513.py) não pode ser executado localmente, devido ao conversor de tipos array, para tree que o leet code realiza ao submeter o código.
 
 ## Link dos vídeos
-
-
+[PA - Grafos 1](https://youtu.be/T9vPYCrH5pQ)
 
 
