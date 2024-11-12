@@ -21,11 +21,11 @@ Entradas e saídas obtidas:
 
 Codigo de teste:
 <br>
-![Exemplo2](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/CodigoTeste.png "Exemplo2")
+![TestesRodados](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/CodigoTeste.png "TestesRodados")
 
 Saída obtida:
 <br>
-![Exemplo2](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/OutputTeste.png "Exemplo2")
+![SaidasObtidas](https://github.com/projeto-de-algoritmos-2024/Grafos1_LeetCodeExs/blob/master/Questoes/Questao_1293/OutputTeste.png "SaidasObtidas")
 
 Foi utilizado na BFS para resolver o problema, o desafio desta resolução consiste em compreender como se deve realizar a exclusão de um bloco de parede no caminho.
 Para um comprrendimento do problema foi utilizado o texto [Eliminando blocos no caminho](https://medium.com/algorithms-digest/shortest-path-in-a-grid-with-obstacles-elimination-ad0c07ed41c2).
